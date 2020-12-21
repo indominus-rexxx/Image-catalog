@@ -1,0 +1,27 @@
+.work-panel {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input::placeholder {
+    color: gray !important;
+    font-weight: 500;
+}
+
+.btn-load, .btn-clear, .btn-group {
+    color: whitesmoke;
+}
+
+.btn-load {
+    background-color: olivedrab;
+}
+
+.btn-clear {
+    background-color: orangered;
+}
+
+.btn-group {
+    background-color: royalblue;
+}
